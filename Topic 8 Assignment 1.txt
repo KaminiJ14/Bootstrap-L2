@@ -1,0 +1,10 @@
+Topic 8 Assignment 1
+
+Which properties are used to position objects?
+
+Option 1 : top, left, right, bottom, center
+Option 2 : head, body, right, middle, side
+Option 3 : up, down, left, right, middle
+Option 4 : inside, outside, forward, backward, center
+
+Answer : Option 1 : top, left, right, bottom, center
