@@ -1,0 +1,11 @@
+Topic 15 Assignment 1
+
+Syntax for datalist
+
+<datalist id="Languages">
+    <option value="C">
+    <option value="C++">
+    <option value="Java">
+    <option value="Ruby">
+    <option value="Perl">
+</datalist>

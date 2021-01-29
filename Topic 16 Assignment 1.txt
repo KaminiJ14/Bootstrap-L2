@@ -1,0 +1,8 @@
+Topic 16 Assignment 1
+
+Some of the common lists type that can be used when designing a page are
+
+1. unordered list — used to group a set of related items in no particular order
+2. ordered list — used to group a set of related items in a specific order
+3. description list — used to display name/value pairs such as terms and definitions
+
